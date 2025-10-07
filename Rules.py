@@ -1,0 +1,9 @@
+first_name="Sardorbek"
+last_name="Azimov"
+student_id=20250007
+gpa=3.85
+is_scholarship_eligible=True
+gpa=3.90
+print(f"student:{first_name}{last_name}")
+print(f"ID:{student_id}")
+print(f"GPA:{gpa}")
